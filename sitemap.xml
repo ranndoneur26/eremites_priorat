@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- HOME -->
+  <url>
+    <loc>https://eremites.netlify.app/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://eremites.netlify.app/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://eremites.netlify.app/es"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://eremites.netlify.app/en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eremites.netlify.app/"/>
+  </url>
+
+  <!-- SECCIONS ANCLA – H2 PRINCIPALS -->
+  <url>
+    <loc>https://eremites.netlify.app/#origen</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://eremites.netlify.app/#desenv</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://eremites.netlify.app/#mapa</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://eremites.netlify.app/#vida</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eremites.netlify.app/#decadencia</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eremites.netlify.app/#ermitana</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://eremites.netlify.app/#avui</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ERMITA CLAU – ENTITY PRINCIPAL PER IA -->
+  <url>
+    <loc>https://eremites.netlify.app/#codolar</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://eremites.netlify.app/#fraguerau</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- IDIOMES -->
+  <url>
+    <loc>https://eremites.netlify.app/es</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eremites.netlify.app/en</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PROJECTES RELACIONATS – per link equity -->
+  <url>
+    <loc>https://eremites.netlify.app/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://emparedades.netlify.app/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+</urlset>
